@@ -9,6 +9,7 @@
   "dependencies": {
     "lazysizes": "^5.1.2",
     "lodash": "^4.17.15",
+    "node-sass": "^4.14.1",
     "normalize.css": "^8.0.1",
     "post": "0.0.1"
   },
